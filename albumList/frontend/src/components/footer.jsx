@@ -45,15 +45,15 @@ const Footer = () => {
     <FooterContainer>
       <ContactInfo>
         <p>
-          <span>Email:</span> haykelmuktar@gmail.com
+          <span>Email:</span> lensbelete@gmail.com
         </p>
         <p>
-          <span>Phone:</span> +251991229830
+          <span>Phone:</span> +251940244913
         </p>
         <SocialMedia>
           <li>
             <a
-              href="https://github.com/hayk2377"
+              href="https://github.com/lensbelete"
               target="_blank"
               rel="noreferrer"
             >
@@ -63,7 +63,7 @@ const Footer = () => {
           </li>
           <li>
             <a
-              href="https://www.linkedin.com/in/haykel-muktar-a09747213"
+              href="https://www.linkedin.com/in/lensbelete"
               target="_blank"
               rel="noreferrer"
             >
